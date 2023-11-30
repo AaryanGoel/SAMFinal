@@ -1,5 +1,5 @@
 # SAMFinal
-please download these datasets before running. these datsets were too large to be uploaded to Github.
+please download these datasets before running. these datsets were too large to be uploaded to Github. preferably run on Kaggle.
 
 https://drive.google.com/drive/folders/1k1UMUfX4jg-c_Wi3zcPcYfwWNPFtmT19?usp=drive_link
 https://drive.google.com/drive/folders/10CaCIK2N0FEQrac4IA4yZjpj94319LoR?usp=drive_link
